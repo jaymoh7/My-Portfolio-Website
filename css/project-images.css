@@ -1,0 +1,34 @@
+.project-image-placeholder {
+    width: 100%;
+    height: 192px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+}
+
+.web-dev-placeholder {
+    background: linear-gradient(135deg, #4F46E5, #7C3AED);
+    color: white;
+}
+
+.data-annotation-placeholder {
+    background: linear-gradient(135deg, #10B981, #059669);
+    color: white;
+}
+
+.content-writing-placeholder {
+    background: linear-gradient(135deg, #F59E0B, #D97706);
+    color: white;
+}
+
+.graphic-design-placeholder {
+    background: linear-gradient(135deg, #EC4899, #BE185D);
+    color: white;
+}
+
+.project-icon {
+    font-size: 4rem;
+    opacity: 0.8;
+} 
