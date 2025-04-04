@@ -16,7 +16,7 @@ A modern, responsive portfolio website built with HTML, TailwindCSS, and JavaScr
 ## Pages
 
 1. **Home** - Landing page with typewriter effect
-2. **About** - Personal introduction and skill bars
+2. **About** - Personal introduction, educational background, interests, and skill bars
 3. **Skills** - Technology grid with hover effects
 4. **Projects** - Filterable project gallery with modals
 5. **Contact** - Contact form and social media links
